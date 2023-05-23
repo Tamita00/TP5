@@ -6,7 +6,7 @@ public class HomeController : Controller
 {
     public IActionResult Index()
     {
-        return View("Index");
+        return View();
     }
 
     public IActionResult Tutorial()
@@ -16,6 +16,16 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
-        return View("Tutorial");
+        return View("Habitacion1");
     }
+
+    public IActionResult Habitacion(int sala, string clave)
+    {
+        if(sala == Escape.GetEstadoJuego())
+        {
+         if(!Escape.ResolverSala(sala, clave)) ViewBag.Error = "Resultado mal" ;
+        }   
+        return View("Habitacion" + Escape.GetEstadoJuego());
+    }
+
 }
