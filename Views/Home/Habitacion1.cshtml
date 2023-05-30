@@ -28,10 +28,11 @@
   </button>
 </div>
 </div>
-<form action= '@Url.Action("Habitacion", new {sala = 1})'>
+<form action= '@Url.Action("Habitacion", "Home")'>
+    <input type="hidden" name = "sala" value = "1">
     <input type="text" name = "clave">
-    <button onclick="alert('El color del pelo que se encuentra enredado en el tenedor es rojo')"> Pista</button>
-    <button onclick="alert('La persona que duerme en esta habitación solía dormir bajo del mar')"> Pista Extra </button>
-    <input type="submit" value = "Habitacion">
+    <input type="button" onclick="alert('El color del pelo que se encuentra enredado en el tenedor es rojo')" value="Pista">
+    <input type="button" onclick="alert('La persona que duerme en esta habitación solía dormir bajo del mar')" value ="Pista Extra"> 
+    <input type="submit" value = "Subir">
 </form>
 </article>

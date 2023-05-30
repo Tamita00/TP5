@@ -48,26 +48,12 @@ a:active {
     border-radius: 5px;
 }
 
-input[type="submit"] {
-    background-color: #f885b5;
+.button {
     text-decoration: none;
-    color: white;
+    color: rgb(59, 55, 55);
     padding: 15px 25px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
-    border-radius: 5px;
-    font-size: 25px;
-}
-
-button {
-    background-color: #f885b5;
-    text-decoration: none;
-    color: white;
-    padding: 15px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 5px;
     font-size: 25px;
 }
