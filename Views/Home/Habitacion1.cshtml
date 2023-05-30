@@ -1,0 +1,37 @@
+<header>
+  <a href='@Url.Action("Index")'>Volver al Menu</a><br>
+</header>
+<article>
+<h2>¿De quién es este cuarto?</h2>
+<p>En el cuarto encuentras distintos objetos. En la mesada está colocado el primero de ellos, un tenedor, este mismo es de plata tiene las puntas un poco oxidadas y pelos enredados en ellas. Sigues caminando por la habitación con paredes de color celeste, cosa que te hace recordar el mar. Llegas al baño y encuentras un collar con una concha marina como dije.</p>
+
+<div class="d-flex justify-content-center">
+<div id="carouselExample" class="carousel slide w-50 text-center">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/img/acertijos/Ariel/collar.jpg" class="d-block w-100" alt="foto1" >
+    </div>
+    <div class="carousel-item">
+      <img src = "/img/acertijos/Ariel/habitacion.jpg" class="d-block w-100" alt = "foto2">
+    </div>
+    <div class="carousel-item">
+      <img src="/img/acertijos/Ariel/tenedor.jpg" class="d-block w-100" alt="foto3" >
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+</div>
+<form action= '@Url.Action("Habitacion", new {sala = 1})'>
+    <input type="text" name = "clave">
+    <button onclick="alert('El color del pelo que se encuentra enredado en el tenedor es rojo')"> Pista</button>
+    <button onclick="alert('La persona que duerme en esta habitación solía dormir bajo del mar')"> Pista Extra </button>
+    <input type="submit" value = "Habitacion">
+</form>
+</article>
