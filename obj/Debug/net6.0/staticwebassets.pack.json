@@ -1,115 +1,119 @@
 {
   "Files": [
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP5.bundle.scp.css",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP5.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP5.bundle.scp.css"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\css\\site.css",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\favicon.ico",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Index\\Thumbs.db",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Index\\Thumbs.db"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Index\\foto1.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto1.jpg",
       "PackagePath": "staticwebassets\\img\\Index\\foto1.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Index\\foto2.webp",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto2.webp",
       "PackagePath": "staticwebassets\\img\\Index\\foto2.webp"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Index\\foto3.webp",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto3.webp",
       "PackagePath": "staticwebassets\\img\\Index\\foto3.webp"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Princesas\\ariel.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Princesas\\ariel.jpg",
       "PackagePath": "staticwebassets\\img\\Princesas\\ariel.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Princesas\\cenicienta.png",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Princesas\\cenicienta.png",
       "PackagePath": "staticwebassets\\img\\Princesas\\cenicienta.png"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Princesas\\mulan.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Princesas\\mulan.jpg",
       "PackagePath": "staticwebassets\\img\\Princesas\\mulan.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Princesas\\rapunzel.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Princesas\\rapunzel.jpg",
       "PackagePath": "staticwebassets\\img\\Princesas\\rapunzel.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\Thumbs.db",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Ariel\\collar.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Ariel\\collar.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Ariel\\collar.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Ariel\\habitacion.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Ariel\\habitacion.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Ariel\\habitacion.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Ariel\\tenedor.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Ariel\\tenedor.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Ariel\\tenedor.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\Escalera.webp",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\Escalera.webp",
       "PackagePath": "staticwebassets\\img\\acertijos\\Cenicienta\\Escalera.webp"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\ratas.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\ratas.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Cenicienta\\ratas.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\zapato.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Cenicienta\\zapato.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Cenicienta\\zapato.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Mulan\\armadura.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Mulan\\armadura.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Mulan\\armadura.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Mulan\\habitacion.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Mulan\\habitacion.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Mulan\\habitacion.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Mulan\\sostenedor_de_pelo.avif",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Mulan\\sostenedor_de_pelo.avif",
       "PackagePath": "staticwebassets\\img\\acertijos\\Mulan\\sostenedor_de_pelo.avif"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\pintura.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\pintura.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Rapunzel\\pintura.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\sarten.webp",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\sarten.webp",
       "PackagePath": "staticwebassets\\img\\acertijos\\Rapunzel\\sarten.webp"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\se_busca.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Rapunzel\\se_busca.jpg",
       "PackagePath": "staticwebassets\\img\\acertijos\\Rapunzel\\se_busca.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\creditos\\buti.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\creditos\\buti.jpg",
       "PackagePath": "staticwebassets\\img\\creditos\\buti.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\creditos\\tami.jpg",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\creditos\\tami.jpg",
       "PackagePath": "staticwebassets\\img\\creditos\\tami.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\img\\logo.png",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\fondo\\trama_rojo.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo\\trama_rojo.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\wwwroot\\js\\site.js",
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

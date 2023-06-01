@@ -1,10 +1,18 @@
+<body >
 <header>
-  <a href='@Url.Action("Index")'>Volver al Menu</a><br>
+  <a class="volver" href='@Url.Action("Index")'>Volver al Menu</a><br>
 </header>
 <article>
 <h2>¿De quién es este cuarto?</h2>
+@{
+      if(ViewBag.Error != null){
+        <div class = "alert alert-danger alert-dismissible">
+          <button type = "button" class = "btn-close" data-bs-dismiss="alert"></button>
+          <strong>Error! </strong> Respuesta Incorrecta
+        </div>
+      }
+    }
 <p>En el cuarto encuentras distintos objetos. En la mesada está colocado el primero de ellos, un tenedor, este mismo es de plata tiene las puntas un poco oxidadas y pelos enredados en ellas. Sigues caminando por la habitación con paredes de color celeste, cosa que te hace recordar el mar. Llegas al baño y encuentras un collar con una concha marina como dije.</p>
-
 <div class="d-flex justify-content-center">
 <div id="carouselExample" class="carousel slide w-50 text-center">
   <div class="carousel-inner">
@@ -37,3 +45,4 @@
     <input type="submit" value = "Subir">
 </form>
 </article>
+</body>

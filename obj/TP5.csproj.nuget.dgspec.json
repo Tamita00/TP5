@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\TP5.csproj": {}
+    "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\TP5.csproj": {}
   },
   "projects": {
-    "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\TP5.csproj": {
+    "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\TP5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\TP5.csproj",
+        "projectUniqueName": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\TP5.csproj",
         "projectName": "TP5",
-        "projectPath": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\TP5.csproj",
+        "projectPath": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\TP5.csproj",
         "packagesPath": "C:\\Users\\47807159\\.nuget\\packages\\",
-        "outputPath": "Z:\\PROG\\2023\\TP5_nuevo\\TP5\\obj\\",
+        "outputPath": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

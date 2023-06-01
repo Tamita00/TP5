@@ -29,7 +29,10 @@ public class HomeController : Controller
         if(sala == Escape.GetEstadoJuego())
         {
          if(!Escape.ResolverSala(sala, clave)) ViewBag.Error = "Resultado incorrecto";
-         if(Escape.GetEstadoJuego() > 4)return View("Victoria");
+         if(Escape.GetEstadoJuego() > 4){
+            ViewBag.intentos = Escape.intentos;
+            return View("Victoria");
+         }
         }   
         return View("Habitacion" + Escape.GetEstadoJuego());
     }
