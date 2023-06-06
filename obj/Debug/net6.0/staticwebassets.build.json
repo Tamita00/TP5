@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/jk1rU540aMwYoGRklPYobFoaCPA6QsA9/9URuz8Enc=",
+  "Hash": "iwQf/voy8ktLE2HFO1YQMQckJYZNrCGBgZaBzxBgnas=",
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -340,12 +340,12 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo\\trama_rojo.jpg"
     },
     {
-      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto1.jpg",
+      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\fondo\\trama_TP5_PROG.jpg",
       "SourceId": "TP5",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\",
       "BasePath": "_content/TP5",
-      "RelativePath": "img/Index/foto1.jpg",
+      "RelativePath": "img/fondo/trama_TP5_PROG.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Index\\foto1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\fondo\\trama_TP5_PROG.jpg"
     },
     {
-      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto2.webp",
+      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto1Princesas.jpg",
       "SourceId": "TP5",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\",
       "BasePath": "_content/TP5",
-      "RelativePath": "img/Index/foto2.webp",
+      "RelativePath": "img/Index/foto1Princesas.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Index\\foto2.webp"
+      "OriginalItemSpec": "wwwroot\\img\\Index\\foto1Princesas.jpg"
     },
     {
-      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto3.webp",
+      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto2Princesas.jpg",
       "SourceId": "TP5",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\",
       "BasePath": "_content/TP5",
-      "RelativePath": "img/Index/foto3.webp",
+      "RelativePath": "img/Index/foto2Princesas.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Index\\foto3.webp"
+      "OriginalItemSpec": "wwwroot\\img\\Index\\foto2Princesas.jpg"
     },
     {
       "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\Thumbs.db",
@@ -525,6 +525,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\musica\\musica1.mp3",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "musica/musica1.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musica\\musica1.mp3"
     }
   ]
 }

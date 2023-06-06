@@ -14,6 +14,11 @@ public class HomeController : Controller
         return View("Tutorial");
     }
 
+    public IActionResult Perdiste()
+    {
+        return View("Perdiste");
+    }
+
     public IActionResult Creditos()
     {
         return View("Creditos");

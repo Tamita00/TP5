@@ -17,16 +17,12 @@
       "PackagePath": "staticwebassets\\img\\Index\\Thumbs.db"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto1.jpg",
-      "PackagePath": "staticwebassets\\img\\Index\\foto1.jpg"
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto1Princesas.jpg",
+      "PackagePath": "staticwebassets\\img\\Index\\foto1Princesas.jpg"
     },
     {
-      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto2.webp",
-      "PackagePath": "staticwebassets\\img\\Index\\foto2.webp"
-    },
-    {
-      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto3.webp",
-      "PackagePath": "staticwebassets\\img\\Index\\foto3.webp"
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\foto2Princesas.jpg",
+      "PackagePath": "staticwebassets\\img\\Index\\foto2Princesas.jpg"
     },
     {
       "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Princesas\\ariel.jpg",
@@ -105,6 +101,10 @@
       "PackagePath": "staticwebassets\\img\\creditos\\tami.jpg"
     },
     {
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\fondo\\trama_TP5_PROG.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo\\trama_TP5_PROG.jpg"
+    },
+    {
       "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\fondo\\trama_rojo.jpg",
       "PackagePath": "staticwebassets\\img\\fondo\\trama_rojo.jpg"
     },
@@ -115,6 +115,10 @@
     {
       "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\musica\\musica1.mp3",
+      "PackagePath": "staticwebassets\\musica\\musica1.mp3"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP5.Microsoft.AspNetCore.StaticWebAssets.props",

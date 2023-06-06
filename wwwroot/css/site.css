@@ -10,13 +10,17 @@ html {
     }
 }
 
+#ten-countdown{
+    font-size: 50px;
+}
+
 body {
     justify-content: center;
     align-items: center;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 20px 60px 0px 20px;
-    background-image: url('/img/fondo/trama_rojo.jpg');
+    background-image: url('/img/fondo/trama_TP5_PROG.jpg');
 }
 p{
     padding-left: 20px;
