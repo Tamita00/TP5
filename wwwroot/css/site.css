@@ -75,14 +75,18 @@ a:active {
     border-radius: 5px;
 }
 
-button {
+.btn {
     text-decoration: none;
     color: rgb(59, 55, 55);
+    background-color: #f885b5;
     padding: 15px 25px;
     text-align: center;
     text-decoration: underline;
     display: inline-block;
     font-size: 25px;
+}
+.btn:hover{
+    background-color: #f399bf;
 }
 li{
     list-style: none;

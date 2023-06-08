@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\fuentes\\MikadoBold_DEMO.otf",
+      "PackagePath": "staticwebassets\\fuentes\\MikadoBold_DEMO.otf"
+    },
+    {
       "Id": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\Index\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Index\\Thumbs.db"
     },

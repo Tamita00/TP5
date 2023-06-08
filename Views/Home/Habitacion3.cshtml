@@ -5,6 +5,14 @@
 <article>
   <div id="ten-countdown"></div>
 <h2>¿De quién es este cuarto?</h2>
+@{
+      if(ViewBag.Error != null){
+        <div class = "alert alert-danger alert-dismissible">
+          <button type = "button" class = "btn-close" data-bs-dismiss="alert"></button>
+          <strong>Error! </strong> Respuesta Incorrecta
+        </div>
+      }
+    }
 <p>Alegremente, saliste de aquel oscuro ático pero te sentiste atrapado al ver que no llegaste al final del laberinto. Te tropezaste con unos tarros de pintura y caíste violentamente en el piso. Cansado, te diste vuelta y te quedaste mirando al techo por un rato. Este, estaba todo pintado con colores brillantes y alegres, no había un espacio en blanco. Con atención pude ver como en todos se podía ver un sol. Te levantaste y paseaste un poco más. El lugar estaba lleno de cosas con las cuales entretenerse, ajedrez y otros juegos de mesa, libros, cosas para cocinar y hasta para hacer velas. Abriste el tacho de basura y encontraste un panfleto que pedía por un criminal a cambio de una recompensa. La nariz del buscado no era muy agraciada, pensaste. Subiste un piso y encontraste una cama, al lado de ella una mesa de luz y una sartén en la misma.</p>
 <div class="d-flex justify-content-center">
 <div id="carouselExample" class="carousel slide w-50 text-center">
@@ -33,9 +41,9 @@
 <form action= '@Url.Action("Habitacion", "Home")'>
     <input type="hidden" name = "sala" value = "3">
     <input type="text" name = "clave">
-    <input type="button" onclick="alert('Junto a la sartén hay una corona')" value="Pista">
-    <input type="button" onclick="alert('No encontraste ningúna clase de calzado en la sala, el dueño no deberá usarlo')" value="Pista Extra">
-    <input type="submit" value = "Subir">
+    <input type="button" class = "btn" onclick="alert('Junto a la sartén hay una corona')" value="Pista">
+    <input type="button" class = "btn" onclick="alert('No encontraste ningúna clase de calzado en la sala, el dueño no deberá usarlo')" value="Pista Extra">
+    <input type="submit" class = "btn" value = "Subir">
 </form>
 </article>
 </body>

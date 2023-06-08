@@ -6,6 +6,14 @@
 <article>
   <div id="ten-countdown"></div>
 <h2>¿De quién es este cuarto?</h2>
+@{
+      if(ViewBag.Error != null){
+        <div class = "alert alert-danger alert-dismissible">
+          <button type = "button" class = "btn-close" data-bs-dismiss="alert"></button>
+          <strong>Error! </strong> Respuesta Incorrecta
+        </div>
+      }
+    }
 <p>Entrás a la siguiente sala y no encuentras nada más y nada menos que una escalera que subía, subía y no paraba de subir en forma de espiral. Como no tienes escapatoria, vas a ver a dónde te llevan. Cuando por fin llegaste al último escalón, pegaste un grito, dos ratones pasaron por enfrente tuyo. Uno más grande que otro, ambos llevaban pequeños trozos de queso en sus espaldas. Al adentrarte a la habitación, puedes ver una chimenea apagada con sus cenizas esparcidas por todo el suelo. La habitación, por no decir ático, estaba prácticamente vacía. Solamente tenía una silla como mesa de luz y un sillón con almohadas que funcionaba como cama. Por último, encima de la mesita de luz, había un diminuto zapatito de cristal.</p>
 <div class="d-flex justify-content-center">
 <div id="carouselExample" class="carousel slide w-50 text-center">

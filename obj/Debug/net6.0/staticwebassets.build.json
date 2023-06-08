@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iwQf/voy8ktLE2HFO1YQMQckJYZNrCGBgZaBzxBgnas=",
+  "Hash": "QS/zx4SR/EBtYfd/vwSCVZiwwyiCBtFQrRMLJHwDxgk=",
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\fuentes\\MikadoBold_DEMO.otf",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "fuentes/MikadoBold_DEMO.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fuentes\\MikadoBold_DEMO.otf"
     },
     {
       "Identity": "Z:\\PROG\\2023\\TP5_SantiahoMateoButi_TamaraDratlerYael\\TP5\\wwwroot\\img\\acertijos\\Ariel\\collar.jpg",

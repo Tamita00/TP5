@@ -6,6 +6,14 @@
 <article>
   <div id="ten-countdown"></div>
 <h2>¿De quién es este cuarto?</h2>
+@{
+      if(ViewBag.Error != null){
+        <div class = "alert alert-danger alert-dismissible">
+          <button type = "button" class = "btn-close" data-bs-dismiss="alert"></button>
+          <strong>Error! </strong> Respuesta Incorrecta
+        </div>
+      }
+    }
 <p>Finalmente llegaste a la última sala. En la misma, se podía destacar la antigüedad de sus muebles y origen chino. Por las paredes, la madera del piso, muebles y techo. En la habitación podías ver en la mesa de luz un retenedor de pelo color turquesa con una flor blanca rosácea en la esquina. Seguís caminando por la sala y encontrás una armadura de hierro. Parecía fuerte. Era imponente y hasta atemorizante. La persona que la usase debía ser una con valentía y fuerza.</p>
 <div class="d-flex justify-content-center">
 <div id="carouselExample" class="carousel slide w-50 text-center">
